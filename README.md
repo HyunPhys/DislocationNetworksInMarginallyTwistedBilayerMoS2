@@ -94,7 +94,7 @@ This directory contains a **minimal analytical / kinematical model** used to stu
 
 For questions regarding the code or simulations, please contact:
 
-**Byunghyun Kim** 
+**Byunghyun Kim**  
 Ph.D. Candidate  
 Department of Materials Science and Engineering  
 Seoul National University  
