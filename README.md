@@ -2,10 +2,10 @@
 
 This repository contains simulation codes and structure files used in **our manuscript**:
 
-> **“Dislocation networks in marginally twisted bilayer MoS_2”**  
+> **“Dislocation networks in marginally twisted bilayer MoS₂”**  
 > *Byunghyun Kim‡, Ayoung Yuk‡, Yunyeong Chang‡, Daesung Park, Miyoung Kim\*, Moon Sung Kang\*, and Hyobin Yoo\*.*  
-> *(under review)*
-> DOI: To be updated
+> *(under review)*  
+> DOI: To be updated  
 
 The codes are provided to support the **Code Availability** statement and enable reproduction of the key simulation results related to **dark-field TEM contrast and domain-wall physics in layered MoS₂ systems**.
 
