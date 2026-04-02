@@ -3,7 +3,7 @@
 This repository contains simulation codes and structure files used in **our manuscript**:
 
 > **“Dislocation networks in marginally twisted bilayer MoS₂”**  
-> *Byunghyun Kim‡, Ayoung Yuk‡, Yunyeong Chang‡, Daesung Park, Miyoung Kim\*, Moon Sung Kang\*, and Hyobin Yoo\*.*  
+> *Byunghyun Kim‡, Ayoung Yuk‡, Yunyeong Chang‡, Dongsin Kim‡, Daesung Park, Young Woo Choi\*, Miyoung Kim\*, Moon Sung Kang\*, and Hyobin Yoo\*.*  
 > *ACS Materials Letters*  
 > DOI: doi/10.1021/acsmaterialslett.5c01692 
 
